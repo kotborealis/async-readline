@@ -1,6 +1,6 @@
 {
   "name": "async-readline",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Async wrapper for readline",
   "main": "index.js",
   "scripts": {
