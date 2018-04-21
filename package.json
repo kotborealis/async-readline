@@ -1,0 +1,15 @@
+{
+  "name": "async-readline",
+  "version": "1.0.0",
+  "description": "Async wrapper for readline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "readline"
+  ],
+  "author": "kotborealis@awooo.ru",
+  "license": "ISC"
+}
